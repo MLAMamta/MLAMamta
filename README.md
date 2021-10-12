@@ -2,15 +2,14 @@
 <a target="_blank">
   <img align="left" height="300" width="300" alt="GIF" src="https://raw.githubusercontent.com/MLAMamta/MLAMamta/main/mla%20mamta%20jangir.png">
 </a>
-
-- Full Name        **Mamta jangir**
-- Location         **Mandawa India**
-- Gender           **Female**
-- Date of birth    **12 November 1998**
-- Father Name      **Suresh jangir**
-- Party Name       **PU**
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
-
+              - Full Name        **Mamta jangir**
+              - Location         **Mandawa India**
+              - Gender           **Female**
+              - Date of birth    **12 November 1998**
+              - Father Name      **Suresh jangir**
+              - Party Name       **PU**
+<br/>
+<br/>
 <br/>
 <br/>
 
