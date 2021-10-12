@@ -9,7 +9,9 @@
 - Date of birth    **12 November 1998** <br/>
 - Father Name      **Suresh jangir** <br/>
 - Party Name       **PU** <br/>
-- Instagram        ****
+- Instagram        <a href="https://www.instagram.com/mlamamta/">@mlamamta</a>
+- Facebook         <a href="https://www.facebook.com/mlamamta">@mlamamta</a>
+- Twitter          <a href="https://twitter.com/mamta_mla?t=d8goU7N3l496x-r1cYZtvA&s=08">@mamta_mla</a>
 <br/>
 <br/>
 
